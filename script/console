@@ -1,0 +1,7 @@
+#! /usr/bin/env ruby
+
+require 'bundler/setup'
+require 'markov_text_generator'
+require 'irb'
+
+IRB.start
