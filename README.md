@@ -1,6 +1,6 @@
 # MarkovTextGenerator
 
-This is simple implementation of the probability distribution based on the current state and not on the sequence of events that is preceded it.
+Simple implementation of the probability distribution based on the current state and not on the sequence of events that is preceded it.
 
 ## Installation
 
