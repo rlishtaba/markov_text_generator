@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rlishtaba/markov_text_generator.svg?branch=master)](https://travis-ci.org/rlishtaba/markov_text_generator)
+
 # MarkovTextGenerator
 
 Simple implementation of the probability distribution based on the current state and not on the sequence of events that is preceded it.
